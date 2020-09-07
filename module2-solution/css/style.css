@@ -16,9 +16,8 @@ h1 {
     background-color: #195a85;
     height: 150px;
     margin:10px;
-    padding-left:10px;
+    padding:15px;
     color: white;
-    clear:right;
     font-size: .8em;
 }
 .p2{
@@ -26,6 +25,8 @@ h1 {
     width: 150px;
     padding-bottom: 5px;
     padding-top: 5px;
+    margin-right:-15px;
+    margin-top:-15px;
     text-align: center;
     margin-left:100%;
     font-size: 1.5em;
@@ -34,12 +35,15 @@ h1 {
 }
 #s1{
     background-color: #e072a9;
+    color: black;
 }
 #s2{
     background-color: #ec6e78;
+    color: black;
 }
 #s3{
     background-color: #ffaa49;
+    color: black;
 }
 /* Simple Responsive Framework. */
 .row {
