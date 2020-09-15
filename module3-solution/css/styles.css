@@ -1,0 +1,50 @@
+body{
+    background-color: lightslategray;
+}
+
+#header-nav{
+	background-color: rgb(32, 6, 6);
+	border-radius: 0px;
+	border:0px;
+}
+
+.navbar-default .navbar-brand{
+	color:white;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color:white;
+}
+.navbar-brand{
+	font-size:2em;
+	height:auto;
+	line-height: 1em;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+	color:gray;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{
+	color:white;
+}
+.divider{
+	height:1px;
+	margin: 4px 0;
+	overflow: hidden;
+	background-color: #e5e5e5; 
+}
+#nav-list li a{
+	margin: 0px;
+	padding: 0px;
+}
+
+section{
+    background-color: rgb(214, 185, 158);
+    margin-bottom: 20px;
+    padding:10px;
+}
+
+#main-content{
+    margin-right:10px;
+    margin-left:10px;
+}
