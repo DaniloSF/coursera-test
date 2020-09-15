@@ -2,6 +2,12 @@ body{
     background-color: lightslategray;
 }
 
+#menu-title{
+	color:black;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
 #header-nav{
 	background-color: rgb(32, 6, 6);
 	border-radius: 0px;
